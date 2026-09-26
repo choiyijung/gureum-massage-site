@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seingy-massage.xyz/sitemap.xml
